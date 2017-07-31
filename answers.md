@@ -40,7 +40,7 @@
 ![Alert notification](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Test.support.random%20alert%20notification.jpg)
 
 * Confirmed that e-mail was received:
-![Alert e-mail] (https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Alert%20e-mail.jpg)
+![Alert e-mail](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Alert%20e-mail.jpg)
 
 * Set scheduled downtime for the monitor:
 ![Alert downtime](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Schedule%20alert%20downtime.jpg)
