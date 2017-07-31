@@ -21,11 +21,14 @@
 
 ### Level 2
 * Cloned the MongoDB integration dashboard, customized it, and added the `test.support.random` metric:
-<image>
+![Custom dashboard](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Custom%20dashboard.jpg)
+
 * Bonus question: A timeboard is a dashboard where the graphs and events are synchronized in time, so that data from all graphs can be viewed for the same time period. A screenboard contains widgets that are not synchronized, and can contain a custom layout.
-Note: Graphs on a timeboard do not support snapshots. The MongoDB dashboard that I cloned is a timeboard, so I was unable to take snapshots of the custom metric from that dashboard. I was able to create a snapshot on the custom metric dashboard for the next step.
+
+**Note:** Graphs on a timeboard do not support snapshots. The MongoDB dashboard that I cloned is a timeboard, so I was unable to take snapshots of the custom metric from that dashboard. I was able to create a snapshot on the custom metric dashboard for the next step.
+
 * Took a snapshot of the `test.support.random` graph, with annotation and @notification:
-<image>
+![Snapshot with annotation](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Test.support.random%20with%20annotation.jpg)
 
 ### Level 3
 * Set up a monitor for this metric:
