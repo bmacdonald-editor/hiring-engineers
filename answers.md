@@ -2,7 +2,7 @@
 
 ### Level 0
 * Set up an Ubuntu VM using Vagrant:
-<image>
+![Ubuntu box](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Ubuntu%20box.jpg)
 
 ### Level 1
 * Signed up for Datadog, and obtained local system metrics:
