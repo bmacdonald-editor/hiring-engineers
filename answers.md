@@ -6,14 +6,18 @@
 
 ### Level 1
 * Signed up for Datadog, and obtained local system metrics:
-<image>
+![Local system metrics](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Local%20system%20metrics.jpg)
+
 * Definition of the Agent: An Agent is a piece of software that runs on your host and collects data about the hardware, software, and network status. This data is transferred to Datadog, where you can view and evaluate it.
+
 * Added custom tags to the host:
-<image>
+![Host map with custom tags](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Host%20Map%20with%20custom%20tags.jpg)
+
 * Installed MongoDB on the virtual machine, and installed the Datadog integration for it:
-<image>
+![MongoDB integration](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/MongoDB%20integration.jpg)
+
 * Wrote a custom Agent check that sampled a random value:
-<image>
+![Custom random metric](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Custom%20random%20metric.jpg)
 
 ### Level 2
 * Cloned the MongoDB integration dashboard, customized it, and added the `test.support.random` metric:
