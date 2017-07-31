@@ -32,12 +32,17 @@
 
 ### Level 3
 * Set up a monitor for this metric:
-<image>
+![Monitor creation](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Monitor%20creation.jpg)
+
 * Set monitor to multi-alert by host.
+
 * Provided monitor name and message, and configured it to alert via e-mail:
-<image>
+![Alert notification](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Test.support.random%20alert%20notification.jpg)
+
 * Confirmed that e-mail was received:
-<image>
+![Alert e-mail] (https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Alert%20e-mail.jpg)
+
 * Set scheduled downtime for the monitor:
-<image>
-Note: The downtime was specified to take place between 7:00 p.m. and 9:00 a.m. Because I created the monitor after the beginning of that period, I do not have the start of downtime notification e-mail.
+![Alert downtime](https://github.com/bmacdonald-editor/hiring-engineers/blob/master/Schedule%20alert%20downtime.jpg)
+
+**Note:** The downtime was specified to take place between 7:00 p.m. and 9:00 a.m. Because I created the monitor after the beginning of that period, I do not have the start of downtime notification e-mail.
